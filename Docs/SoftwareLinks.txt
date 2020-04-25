@@ -1,0 +1,5 @@
+Heres some useful links->
+VScode downlaod page - https://code.visualstudio.com/download
+Java SE Download page - https://www.oracle.com/java/technologies/javase-downloads.html
+Java Vscode setup direct link - https://aka.ms/vscode-java-installer-win
+Synthesis simulator and emulator tutorial - https://synthesis.autodesk.com/tutorials/emulation-tutorial.html#0
